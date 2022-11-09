@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Eloahoyo
+- 👋 Hi, I’m @idothings
 - 👀 I’m interested in all coding
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate you and me
